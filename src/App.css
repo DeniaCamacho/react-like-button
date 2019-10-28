@@ -11,6 +11,7 @@ html {
 }
 
 button {
+  white-space: nowrap;
   display: flex;
   margin: auto;
   color: white;
